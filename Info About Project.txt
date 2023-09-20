@@ -1,0 +1,5 @@
+Data Source: Stream Data, real-time Data, my Device Performance, Save Data TO SQL DataBase(Local Server)
+
+Create Report & Dashboard
+
+Cards, Line Card, Table
